@@ -1,0 +1,6 @@
+class bank
+{
+ void deposit()
+  {.....}
+}
+
