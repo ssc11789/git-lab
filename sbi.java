@@ -1,0 +1,6 @@
+class sbi
+{
+ void deposit()
+{...}
+}
+
